@@ -1,2 +1,3 @@
-print("heyy")
+def out():
+  print("heyy")
 
