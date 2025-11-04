@@ -1,3 +1,3 @@
 def out():
-  print("heyy")
+  return 'heyy'
 
